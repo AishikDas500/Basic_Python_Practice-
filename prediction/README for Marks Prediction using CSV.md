@@ -34,14 +34,14 @@ This project demonstrates fundamental concepts of data analysis and machine lear
       pip install pandas matplotlib scikit-learn
 ### 2. Run the Program
       python Predictions_using_CSV.py
-      Steps to Use
-    Enter the file path of the CSV file
-    Choose:
-    Independent variable (e.g., Hours)
-    Dependent variable (e.g., Scores)
-    Select options from menu:
-    View data
-    Plot graph
-    Perform regression
-    Compare regression line
-    Predict values
+### 3. Steps to Use
+Enter the file path of the CSV file
+Choose:
+Independent variable (e.g., Hours)
+Dependent variable (e.g., Scores)
+Select options from menu:
+View data
+Plot graph
+Perform regression
+Compare regression line
+Predict values
